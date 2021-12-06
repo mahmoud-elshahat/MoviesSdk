@@ -1,0 +1,3 @@
+include ':MSdk'
+include ':app'
+rootProject.name = "MovieSdkExample"
